@@ -7,26 +7,18 @@ public class Calculator {
     private List<Integer> results;
 
     public Calculator() {
-        results = new ArrayList<>(); // 연산 결과를 저장하는 컬렉션 타입 필드 선언 및 생성
+        this.results = new ArrayList<>(); // 연산 결과를 저장하는 컬렉션 타입 필드 선언 및 생성
     }
 
     // 사칙연산 수행 메서드
     public int calculate(int firstNo, int SecondNo, char fbo) {
-        int result = 0;
-        switch (fbo) {
-            case '+':
-                result = firstNo + SecondNo;
-                break;
-            case '-':
-                result = firstNo - SecondNo;
-                break;
-            case '*':
-                result = firstNo * SecondNo;
-                break;
-            case '/':
-                result = firstNo / SecondNo;
-                break;
-        }
+        int result = switch (fbo) {
+            case '+' -> firstNo + SecondNo;
+            case '-' -> firstNo - SecondNo;
+            case '*' -> firstNo * SecondNo;
+            case '/' -> firstNo / SecondNo;
+            default -> 0;
+        };
 
         addResult(result);
         return result;
