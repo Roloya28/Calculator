@@ -11,12 +11,12 @@ public class Calculator {
     }
 
     // 사칙연산 수행 메서드
-    public int calculate(int firstNo, int SecondNo, char fbo) {
+    public int calculate(int firstNo, int secondNo, char fbo) {
         int result = switch (fbo) {
-            case '+' -> firstNo + SecondNo;
-            case '-' -> firstNo - SecondNo;
-            case '*' -> firstNo * SecondNo;
-            case '/' -> firstNo / SecondNo;
+            case '+' -> firstNo + secondNo;
+            case '-' -> firstNo - secondNo;
+            case '*' -> firstNo * secondNo;
+            case '/' -> firstNo / secondNo;
             default -> 0;
         };
 

@@ -32,7 +32,7 @@ public class App {
             if (delete.equalsIgnoreCase("delete")) { // equalIgnoreCase = 대소문자 구분없이 입력값 인식
                 if (!calculator.getResults().isEmpty()) {
                     calculator.deleteFirstSave(); // 첫 세이브값 삭제
-                    System.out.println("삭제 완료."); // 첫번째 저장 데이터 삭제
+                    System.out.println("삭제 완료."); //
                 }
             }
 
