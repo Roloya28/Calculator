@@ -34,7 +34,7 @@
 
 - 정수값 2개와 사칙연산 기호를 입력받아 계산 진행 및 결과 출력, 이후 종료 여부 확인
 
-   ![image](https://github.com/user-attachments/assets/b6714ef5-354e-4173-9e14-6a58e2713af8)
+   [![401807470-b6714ef5-354e-4173-9e14-6a58e2713af8.png](https://github.com/Roloya28/Calculator/blob/master/401807470-b6714ef5-354e-4173-9e14-6a58e2713af8.png)](https://github.com/Roloya28/Calculator/blob/master/401807470-b6714ef5-354e-4173-9e14-6a58e2713af8.png)
 
 <br />
 
@@ -42,15 +42,15 @@
 
 - 정수값 2개와 사칙연산 기호를 입력받아 계산 진행 및 결과 출력(+결과값 저장 후 출력)
 
-   ![image](https://github.com/user-attachments/assets/db5a4c10-2f2c-42f8-89ba-1b0b37ac3587)
+   [![image](https://github.com/user-attachments/assets/db5a4c10-2f2c-42f8-89ba-1b0b37ac3587)](https://github.com/Roloya28/Calculator/blob/master/401809314-db5a4c10-2f2c-42f8-89ba-1b0b37ac3587.png)
 
 - 첫번째 저장된 값 삭제여부 확인
 
-  ![image](https://github.com/user-attachments/assets/5cff5de6-a73a-4f6e-8a06-53b79d56d534)
+  [![image](https://github.com/user-attachments/assets/5cff5de6-a73a-4f6e-8a06-53b79d56d534)](https://github.com/Roloya28/Calculator/blob/master/401809594-5cff5de6-a73a-4f6e-8a06-53b79d56d534.png)
 
 - 이후 종료 여부 확인
 
-  ![image](https://github.com/user-attachments/assets/2f08a671-0151-40d7-8632-a0dd20c15302)
+  [![image](https://github.com/user-attachments/assets/2f08a671-0151-40d7-8632-a0dd20c15302)](https://github.com/Roloya28/Calculator/blob/master/401809861-2f08a671-0151-40d7-8632-a0dd20c15302.png)
 
   ※ 종료시, 최종 저장되어있는 결과값 함께 출력
 
@@ -64,11 +64,11 @@
 
 **마치며**
 
- Java 강의 수강과 함께 병행된 이번 프로젝트에선, Java라는 언어가 결코 만만한하지 않다는걸 뼈저리게 느끼는 시간이었다.
+ Java 강의 수강과 함께 병행된 이번 프로젝트에선, Java라는 언어가 결코 만만한하지 않다는걸 뼈저리게 
  
- 처음 배우는만큼 경악스러울만큼 모든 부분에서 이해가 가지 않아, 들었던 강의를 몇번씩 다시 들어보고, 
+ 느끼는 시간이었다. 처음 배워서 그런지, 경악스러울만큼 모든 부분에서 이해가 가지 않아, 
  
- 예문 자료를 찾아보고 이해하느라 진행 또한 느렸지만,
+ 들었던 강의를 몇번씩 다시 들어보고, 예문 자료를 찾아보고 이해하느라 진행 또한 느렸지만,
  
  조금씩 코드를 작성하며, 해당 코드가 작동되는 모습에서 낯선 즐거움을 느끼고있는 자신을 발견했다.
  
